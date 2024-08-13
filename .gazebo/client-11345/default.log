@@ -1,0 +1,34 @@
+Gazebo multi-robot simulator, version 11.14.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1723465130 711807518) [Msg] Waiting for master.
+(1723465130 712225756) Failed to create connection to remote host[localhost:11345]
+(1723465131 716495696) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1723465131 716550691) [Msg] Publicized address: 172.31.119.134
+(1723465131 716789891) Loaded .ini file from: "/home/gb/.gazebo/gui.ini"
+(1723465132 270742145) [Err] [InsertModelWidget.cc:403] Missing model.config for model "/home/gb/ros2_foxy/src"
+(1723465132 270820363) model.config file is missing in directory["/home/gb/ros2_foxy/src"]
+(1723465132 271073874) Invalid filename or directory["/home/gb/ganzang01/.ganzang_spin.cc.swp"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1723465132 271163592) [Err] [InsertModelWidget.cc:403] Missing model.config for model "/home/gb/ganzang01/.git"
+(1723465132 271211606) model.config file is missing in directory["/home/gb/ganzang01/.git"]
+(1723465132 271249255) Invalid filename or directory["/home/gb/ganzang01/CMakeLists.txt"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1723465132 271300664) [Err] [InsertModelWidget.cc:403] Missing model.config for model "/home/gb/ganzang01/build"
+(1723465132 271346383) model.config file is missing in directory["/home/gb/ganzang01/build"]
+(1723465132 271384739) Invalid filename or directory["/home/gb/ganzang01/ganzang_spin.cc"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1723465132 271436975) [Err] [InsertModelWidget.cc:403] Missing model.config for model "/home/gb/ganzang01/install"
+(1723465132 271484781) model.config file is missing in directory["/home/gb/ganzang01/install"]
+(1723465132 271525511) [Err] [InsertModelWidget.cc:403] Missing model.config for model "/home/gb/ganzang01/log"
+(1723465132 271568402) model.config file is missing in directory["/home/gb/ganzang01/log"]
+(1723465132 271604312) Invalid filename or directory["/home/gb/ganzang01/roboworld.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1723465134 124750596) No spacenav daemon found. Spacenav functionality is disabled
+(1723465233 63743668) [Wrn] [ColladaLoader.cc:1928] Triangle input semantic: 'COLOR' is currently not supported
+(1723465239 221786316) [Wrn] [ColladaLoader.cc:1928] Triangle input semantic: 'COLOR' is currently not supported
+(1723465242 768170889) Triangle input has a count of zero. This is likely not desired
+(1723465242 768689912) Triangle input has a count of zero. This is likely not desired
+(1723465242 769120147) Triangle input has a count of zero. This is likely not desired
+(1723465242 769533253) Triangle input has a count of zero. This is likely not desired
+(1723465243 521262648) [Wrn] [ColladaLoader.cc:1928] Triangle input semantic: 'COLOR' is currently not supported
+(1723465244 501807132) [Wrn] [ColladaLoader.cc:1928] Triangle input semantic: 'COLOR' is currently not supported

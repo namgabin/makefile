@@ -1,0 +1,19 @@
+Gazebo multi-robot simulator, version 11.14.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1723465130 766786115) [Msg] Waiting for master.
+(1723465130 776864206) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1723465130 776887558) [Msg] Publicized address: 172.31.119.134
+(1723465131 251305282) [Msg] Loading world file [/home/gb/ganzang01/roboworld.world]
+(1723465132 170547198) Init world[default]
+(1723465278 392535854) [Wrn] [ColladaLoader.cc:1928] Triangle input semantic: 'COLOR' is currently not supported
+(1723465284 51543902) [Wrn] [ColladaLoader.cc:1928] Triangle input semantic: 'COLOR' is currently not supported
+(1723465287 628027428) Triangle input has a count of zero. This is likely not desired
+(1723465287 628470394) Triangle input has a count of zero. This is likely not desired
+(1723465287 628902794) Triangle input has a count of zero. This is likely not desired
+(1723465287 629327628) Triangle input has a count of zero. This is likely not desired
+(1723465288 374464558) [Wrn] [ColladaLoader.cc:1928] Triangle input semantic: 'COLOR' is currently not supported
+(1723465289 348343731) [Wrn] [ColladaLoader.cc:1928] Triangle input semantic: 'COLOR' is currently not supported
